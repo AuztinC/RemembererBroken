@@ -1,15 +1,30 @@
-import React from 'react'
+import React, {useState, useEffect} from 'react'
 import Card from './Card'
 
 export default function Game() {
+
+  const data = {
+    picBank: [],
+    active: []
+  }
+
   return (
-    <div>
-        <Card />
-        <Card />
-        <Card />
-        <Card />
-        <Card />
-        <Card />
+    <div id='game'>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
+        <Card {...data}/>
     </div>
   )
 }

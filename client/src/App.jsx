@@ -4,14 +4,16 @@ import './App.css';
 import Game from "./Game";
 
 function App() {
-  
-  
+
+
   return (
-    
-    <div className="App">
-      <Game />
+
+    <div className='App'>
+      <div id="game">
+        <Game />
+      </div>
     </div>
-    
+
   );
 }
 
