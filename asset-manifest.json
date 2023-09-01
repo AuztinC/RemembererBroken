@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rememberer/static/css/main.6508757c.css",
+    "main.js": "/Rememberer/static/js/main.2ceb707d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Rememberer/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Rememberer/index.html",
+    "main.6508757c.css.map": "/Rememberer/static/css/main.6508757c.css.map",
+    "main.2ceb707d.js.map": "/Rememberer/static/js/main.2ceb707d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Rememberer/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6508757c.css",
+    "static/js/main.2ceb707d.js"
+  ]
+}
